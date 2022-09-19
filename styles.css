@@ -1,0 +1,555 @@
+*{
+  padding: 0%;
+  margin: 0%;
+  font-family: teko;  
+}
+
+.cabecera{
+    padding: 1px;
+    background: #ffff;
+}
+
+.logo{
+    position: absolute;
+    width: 36px;
+    height: 48px;
+    left: 108px;
+    top: 11px;
+}
+
+.lista{
+    display: flex;
+    justify-content: flex-end;
+    font-size: 30px;
+    padding: 20px;
+    width: 74rem;
+}
+
+.home{
+    margin-right: 40px;
+}
+
+.shop{
+    margin-right: 40px;
+}
+
+.team{
+    margin-right: 40px;
+}
+
+.background{
+    position: absolute;
+    width: 1280px;
+    height: 649px;
+    top: 71px;
+    left: 0px;
+}
+
+.siguientepartido{
+    position: absolute;
+    width: 130px;
+    height: 52px;
+    left: 108px;
+    top: 198px;
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 52px;
+    color: #ffff;
+}
+
+.escudoliverpool{
+    position: absolute;
+    width: 83.61px;
+    height: 143px;
+    left: 108px;
+    top: 260px;
+}
+
+.vs{
+    position: absolute;
+    width: 27px;
+    height: 52px;
+    left: 245px;
+    top: 315px;
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 36px;
+    line-height: 52px;
+    color: #ffff;
+}
+
+.escudowolves{
+    position: absolute;
+    width: 99px;
+    height: 99px;
+    left: 325px;
+    top: 291px;
+}
+
+.fecha{
+    position: absolute;
+    width: 225px;
+    height: 34px;
+    top: 436px;
+    left: 108px;
+    
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px;
+    color: #ffff;
+}
+
+.lugar{
+    position: absolute;
+    width: 111px;
+    height: 34px;
+    left: 108px;
+    top: 470px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px;
+    color: #ffff;
+}
+
+.hora{
+    position: absolute;
+    width: 90px;
+    height: 34px;
+    top: 504px;
+    left: 108px;
+
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34px;
+    color: #ffff;
+}
+
+.logopremier{
+    position: absolute;
+    width: 36px;
+    height: 46px;
+    top: 548px;
+    left: 108px;
+}
+
+.news{
+    position:absolute;
+    background-color:#DC0714;
+    width: 1280px;
+    height: 391px;
+    top: 720px;
+}
+
+.noticias{
+    position: absolute;
+    width: 93px;
+    height: 57px;
+    top: 39px;
+    left: 108px;
+
+    color: #ffff;
+    font-size: 40px;
+    font-weight: 700;
+    line-height: 57.32px;
+}
+
+.imagen1{
+    position: absolute;
+    width: 298px;
+    height: 141.64px;
+    left: 108px;
+    top: 118px;
+}
+
+.fecha1{
+    position: absolute;
+    width: 45px;
+    height: 21px;
+    top: 277.12px;
+    left: 108px;
+
+    color: #ffff;
+    font-size: 14.7161px;
+    font-weight: 300;
+    line-height: 21px;
+}
+
+.noticia1{
+    position: absolute;
+    width: 298px;
+    height: 26px;
+    left: 108px;
+    top: 298.27px;
+
+    color: #ffff;
+    font-size: 18.3951px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.linea1{
+    position: absolute;
+    width: 298px;
+    height: 0px;
+    left: 108px;
+    top: 325.86px;
+
+    border: 0.459877px solid #ffff;
+}
+
+.imagen2{
+    position: absolute;
+    width: 298px;
+    height: 141.64px;
+    left: 491px;
+    top: 118px;   
+}
+
+.fecha2{
+    position: absolute;
+    width: 45px;
+    height: 21px;
+    top: 277.12px;
+    left: 491px;
+
+    color: #ffff;
+    font-size: 14.7161px;
+    font-weight: 300;
+    line-height: 21px;
+}
+
+.noticia2{
+    position: absolute;
+    width: 298px;
+    height: 26px;
+    left: 491px;
+    top: 298.27px;
+
+    color: #ffff;
+    font-size: 18.3951px;
+    font-weight: 400;
+    line-height: 26px;   
+}
+
+.linea2{
+    position: absolute;
+    width: 298px;
+    height: 0px;
+    left: 491px;
+    top: 325.86px;
+
+    border: 0.459877px solid #ffff;
+}
+
+.imagen3{
+    position: absolute;
+    width: 298px;
+    height: 141.64px;
+    left: 874px;
+    top: 118px;   
+}
+
+.fecha3{
+    position: absolute;
+    width: 45px;
+    height: 21px;
+    top: 277.12px;
+    left: 874px;
+
+    color: #ffff;
+    font-size: 14.7161px;
+    font-weight: 300;
+    line-height: 21px;
+}
+.noticia3{
+    position: absolute;
+    width: 298px;
+    height: 26px;
+    left: 874px;
+    top: 298.27px;
+
+    color: #ffff;
+    font-size: 18.3951px;
+    font-weight: 400;
+    line-height: 26px;
+}
+
+.linea3{
+    position: absolute;
+    width: 298px;
+    height: 0px;
+    left: 874px;
+    top: 325.86px;
+
+    border: 0.459877px solid #ffff;   
+}
+
+.parte3{
+    position: absolute;
+    top: 1111px;
+}
+
+.alexander-arnold{
+    position: absolute;
+    width: 1280px;
+    height: 720px;
+    left: 0px;
+    top: 0px;
+}
+
+.linea4{
+    position: absolute;
+    width: 98px;
+    height: 25px;
+    top: 244px;
+    left: 144px;
+    background: #131313;
+    border-radius: 96px;
+    z-index: 1;
+}
+
+.lastvideo{
+    position: absolute;
+    width: 82px;
+    height: 29px;
+    top: 244px;
+    left: 155px;
+
+    color: #ffff;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 28.66px;
+    z-index: 2;
+}
+
+.noticia4{
+    position: absolute;
+    width: 299px;
+    height: 114px;
+    top: 275px;
+    left: 144px;
+
+    color: #ffff;
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 57.32px;
+}
+
+.parrafo2{
+    font-weight: 400;
+}
+
+.play{
+    position: absolute;
+    width: 43px;
+    height: 29px;
+    top: 410px;
+    left: 144px;
+
+    color: #ffff;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 28.66px;
+}
+
+.logonombre{
+    position: absolute;
+    width: 93px;
+    height: 29.53px;
+    top: 447px;
+    left: 144px;
+}
+
+.parte4{
+    position: absolute;
+    background-color: #ffff;
+    width: 1280px;
+    height: 310px;
+    top: 1830px;
+}
+
+.trofeo1{
+    position: absolute;
+    width: 114px;
+    height: 122px;
+    top: 66px;
+    left: 117px;
+}
+
+.cantidad1{
+    position: absolute;
+    width: 15px;
+    height: 34px;
+    top: 208px;
+    left: 167px;
+
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34.39px;
+}
+
+.trofeo2{
+    position: absolute;
+    width: 114px;
+    height: 122px;
+    top: 66px;
+    left: 272px;
+}
+
+.cantidad2{
+    position: absolute;
+    width: 10px;
+    height: 34px;
+    top: 208px;
+    left: 324px;
+
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34.39px;
+}
+
+.trofeo3{
+    position: absolute;
+    width: 114px;
+    height: 122px;
+    top: 66px;
+    left: 427px;
+}
+
+.cantidad3{
+    position: absolute;
+    width: 10px;
+    height: 34px;
+    top: 208px;
+    left: 479px;
+
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34.39px;
+}
+
+.trofeo4{
+    position: absolute;
+    width: 114px;
+    height: 122px;
+    top: 66px;
+    left: 582px;
+}
+
+.cantidad4{
+    position: absolute;
+    width: 9px;
+    height: 34px;
+    top: 208px;
+    left: 635px;
+
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34.39px;
+}
+
+.trofeo5{
+    position: absolute;
+    width: 114px;
+    height: 122px;
+    top: 66px;
+    left: 737px;
+}
+
+.cantidad5{
+    position: absolute;
+    width: 10px;
+    height: 34px;
+    top: 208px;
+    left: 789px;
+
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34.39px;
+}
+
+.trofeo6{
+    position: absolute;
+    width: 114px;
+    height: 122px;
+    top: 66px;
+    left: 892px;
+}
+
+.cantidad6{
+    position: absolute;
+    width: 9px;
+    height: 34px;
+    top: 208px;
+    left: 945px;
+
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34.39px;
+}
+
+.trofeo7{
+    position: absolute;
+    width: 114px;
+    height: 122px;
+    top: 66px;
+    left: 1047px;
+}
+
+.cantidad7{
+    position: absolute;
+    width: 6px;
+    height: 34px;
+    top: 208px;
+    left: 1102px;
+
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 34.39px;
+}
+
+.parte5{
+    position:absolute;
+    background-color:#DC0714;
+    width: 1280px;
+    height: 310px;
+    top: 2141px;
+}
+
+.patrocinador1{
+    position: absolute;
+    width: 175px;
+    height: 62px;
+    top: 123px;
+    left: 92px;
+}
+
+.patrocinador2{
+    position: absolute;
+    width: 175px;
+    height: 62px;
+    top: 123px;
+    left: 405px;
+}
+
+.patrocinador3{
+    position: absolute;
+    width: 176px;
+    height: 62px;
+    top: 123px;
+    left: 718px;
+}
+.patrocinador4{
+    position: absolute;
+    width: 120px;
+    height: 62px;
+    top: 123px;
+    left: 1032px;
+}
